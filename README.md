@@ -80,6 +80,7 @@ An ongoing project combining visual anomaly detection with retrieval-supported i
 
 ## Leadership
 
+- **Head of Photography and Videography, Community Service:** Pre-production, directing, production, asset management and editing.
 - **Head of General Affairs, XMUM AI Club:** Project coordination, logistics and team communication.
 - **AIESEC involvement:** Committee collaboration and fundraising-event support.
 
