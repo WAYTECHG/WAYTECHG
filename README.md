@@ -1,10 +1,31 @@
 <h1 align="center">Wilbert Andrew Yonathan</h1>
-<p align="center"><strong>Computer Vision · Deep Learning · Efficient AI · RAG Applications</strong></p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/">LinkedIn</a> ·
-  <a href="https://huggingface.co/YOUR_HF_USERNAME">Hugging Face</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <strong>Computer Vision · Deep Learning · Efficient AI · RAG Applications</strong>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wilbert-andrew-yonathan-85562326a/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSIyIiBmaWxsPSIjMEE2NkMyIi8+PHRleHQgeD0iMyIgeT0iMTkiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9ImJvbGQiPmluPC90ZXh0Pjwvc3ZnPg=="
+      alt="Connect on LinkedIn"
+    />
+  </a>
+  <a href="https://huggingface.co/Wizzas">
+    <img
+      src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"
+      alt="Explore my Hugging Face projects"
+    />
+  </a>
+  <a href="mailto:30587wilbertandrewyonathan@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-182B49?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Contact me by email"
+    />
+  </a>
+</p>
+
+<hr>
 
 ## About me
 
@@ -26,7 +47,7 @@ An underwater detection project building on DU-MobileYOLO, with model comparison
 - **Focus:** GhostConv, SimSPPF and the balance between detection quality and parameter count.
 - **Tools:** Python, PyTorch, YOLO and OpenCV.
 
-[Repository](https://github.com/YOUR_USERNAME/YOUR_MARINE_REPO) · [Demo](YOUR_MARINE_DEMO_URL)
+[Repository](https://github.com/WAYTECHG/GhostConv-and-SimSPPF-Integration-for-Marine-Organism-Detection) · [Demo](https://huggingface.co/spaces/Wizzas/Marine-Object-Detection)
 
 ### Paddy Disease Detection — Final-Year Thesis
 Research into YOLOv8n with custom DenseNet-based backbones for paddy disease detection.
@@ -35,7 +56,7 @@ Research into YOLOv8n with custom DenseNet-based backbones for paddy disease det
 - **Focus:** DenseLiteX, SPPF and C2PSA, assessed through detection metrics and model complexity.
 - **Engineering:** Consistent dataset splits, reproducible experiments and clear reporting of experimental conditions.
 
-[Repository](https://github.com/YOUR_USERNAME/YOUR_THESIS_REPO)
+[Repository](https://github.com/WAYTECHG/PaddyLiteX-demo) · [Demo](https://huggingface.co/spaces/Wizzas/PaddyLiteX)
 
 ### DefectRAG — Visual Defect Inspection
 An ongoing project combining visual anomaly detection with retrieval-supported inspection explanations on MVTec LOCO AD.
@@ -44,7 +65,7 @@ An ongoing project combining visual anomaly detection with retrieval-supported i
 - **Focus:** DINOv3 features, visual reference retrieval and RAG-based explanations.
 - **Tools:** Python, PyTorch, FastAPI and Docker.
 
-[Repository](https://github.com/YOUR_USERNAME/YOUR_DEFECTRAG_REPO)
+[Repository](https://github.com/WAYTECHG/DefectRAG) · [Demo](https://huggingface.co/spaces/Wizzas/defectrag-inference)
 
 ## Skills
 
@@ -68,4 +89,4 @@ Lightweight vision architectures, industrial visual inspection, applied machine 
 
 ## Contact
 
-Interested in discussing an internship or AI development project? Contact me through [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/) or [email](mailto:YOUR_EMAIL).
+Interested in discussing an internship or AI development project? Contact me through [LinkedIn](https://www.linkedin.com/in/wilbert-andrew-yonathan-85562326a/) or [email](mailto:30587wilbertandrewyonathan@gmail.com).
