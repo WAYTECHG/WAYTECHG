@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://wilbert-andrew-yonathan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio website"></a>
   <a href="https://www.linkedin.com/in/wilbert-andrew-yonathan-85562326a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSIyIiBmaWxsPSIjMEE2NkMyIi8%2BPHRleHQgeD0iMyIgeT0iMTkiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9ImJvbGQiPmluPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="Connect on LinkedIn"></a>
   <a href="https://github.com/WAYTECHG"><img src="https://img.shields.io/badge/GitHub-12233B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories"></a>
   <a href="https://huggingface.co/Wizzas"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Try my Hugging Face demos"></a>
@@ -37,6 +38,8 @@ I also explore visual defect inspection with reference retrieval and retrieval-a
 **Academic recognition:** Dean’s List and XMUM Merit Scholarship for four consecutive years, **2023–2026**.
 
 **Open to:** AI Engineering and Computer Vision internships, plus part-time or project-based collaboration, subject to availability and applicable work-authorisation requirements.
+
+**[Visit my portfolio](https://wilbert-andrew-yonathan.vercel.app/)** for project case studies, research comparisons and interactive previews.
 
 ## Featured projects
 
@@ -123,6 +126,6 @@ How visual features and reference information support the inspection workflow. T
 
 Interested in an internship conversation or an AI development project?
 
-**[Connect on LinkedIn](https://www.linkedin.com/in/wilbert-andrew-yonathan-85562326a/)** · **[Email me](mailto:30587wilbertandrewyonathan@gmail.com)** · **[Explore my demos](https://huggingface.co/Wizzas)**
+**[View my portfolio](https://wilbert-andrew-yonathan.vercel.app/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/wilbert-andrew-yonathan-85562326a/)** · **[Email me](mailto:30587wilbertandrewyonathan@gmail.com)** · **[Explore my demos](https://huggingface.co/Wizzas)**
 
 <p align="center"><sub>Research interests: lightweight vision architectures · industrial visual inspection · applied machine learning · retrieval-supported AI applications</sub></p>
