@@ -51,15 +51,53 @@ Building an application that combines **visual anomaly detection, reference retr
 **Python · PyTorch · FastAPI · Docker**  
 [Repository](https://github.com/WAYTECHG/DefectRAG) · [Demo](https://huggingface.co/spaces/Wizzas/defectrag-inference)
 
-## Technical skills
+## Tech stack
 
-| Area | Skills and tools |
-| :--- | :--- |
-| **Programming & development** | Python · Git · GitHub |
-| **Deep learning & vision** | PyTorch · OpenCV · CNNs · YOLO · DenseNet · ResNet |
-| **AI applications** | Classification · Object detection · Visual anomaly detection · RAG · Embeddings · Reference retrieval |
-| **Deployment** | Streamlit · FastAPI · Docker |
-| **Evaluation** | Dataset preparation · Leakage prevention · Baseline comparisons · Ablation studies |
+**Programming & tooling**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+**Machine learning & computer vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-042AFF?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Data & deployment**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Applied skills:** CNNs · DenseNet · ResNet · Object detection · Visual anomaly detection · RAG · Embeddings · Reference retrieval
+
+**Evaluation:** Dataset preparation · Leakage prevention · Baseline comparisons · Ablation studies
+
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=WAYTECHG&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0B1323&amp;title_color=60A5FA&amp;icon_color=38BDF8&amp;text_color=CBD5E1&amp;custom_title=GitHub+Activity" alt="WAYTECHG GitHub activity statistics">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=WAYTECHG&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0B1323&amp;title_color=60A5FA&amp;text_color=CBD5E1" alt="Most used languages in WAYTECHG's public repositories">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WAYTECHG/WAYTECHG/output/streak.svg" alt="WAYTECHG's total contributions, current streak, and longest streak">
+</p>
+
+<!-- Generated from my contributions by .github/workflows/snake.yml. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WAYTECHG/WAYTECHG/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WAYTECHG/WAYTECHG/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/WAYTECHG/WAYTECHG/output/github-snake.svg" alt="Animated snake following my GitHub contribution graph">
+  </picture>
+</p>
 
 ## Leadership & collaboration
 
