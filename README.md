@@ -1,131 +1,72 @@
-<h1 align="center">Wilbert Andrew Yonathan</h1>
-
 <p align="center">
-  <strong>Computer Vision · Deep Learning · Efficient AI · RAG Applications</strong><br>
-  Fourth-year AI Engineering student at Xiamen University Malaysia
+  <img src="assets/name-detection.gif" width="1000" alt="Wilbert Andrew Yonathan — animated computer vision detection boxes around my name">
 </p>
 
 <p align="center">
-  <img src="assets/way-dashboard.gif" width="1000" alt="Animated WAY research dashboard: blue tracking rings, a scanning wordmark and three featured projects. Decorative animation, not live inference.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=21&amp;duration=2800&amp;pause=1100&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=42&amp;lines=Computer+Vision+%C2%B7+Deep+Learning;Lightweight+Models+%C2%B7+Efficient+AI;Visual+Inspection+%C2%B7+RAG+Applications" alt="Computer Vision · Deep Learning · Lightweight Models · Efficient AI · Visual Inspection · RAG Applications">
 </p>
 
 <p align="center">
-  <a href="https://wilbert-andrew-yonathan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio website"></a>
+  <strong>Fourth-year AI Engineering student · Xiamen University Malaysia</strong><br>
+  Building practical AI applications through research and engineering.
+</p>
+
+<p align="center">
+  <a href="https://wilbert-andrew-yonathan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio"></a>
   <a href="https://www.linkedin.com/in/wilbert-andrew-yonathan-85562326a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSIyIiBmaWxsPSIjMEE2NkMyIi8%2BPHRleHQgeD0iMyIgeT0iMTkiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9ImJvbGQiPmluPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="Connect on LinkedIn"></a>
-  <a href="https://github.com/WAYTECHG"><img src="https://img.shields.io/badge/GitHub-12233B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories"></a>
-  <a href="https://huggingface.co/Wizzas"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Try my Hugging Face demos"></a>
-  <a href="mailto:30587wilbertandrewyonathan@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact me by email"></a>
+  <a href="https://huggingface.co/Wizzas"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Explore my Hugging Face demos"></a>
+  <a href="mailto:30587wilbertandrewyonathan@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me"></a>
 </p>
 
-<p align="center">
-  <a href="#at-a-glance">Overview</a> ·
-  <a href="#featured-projects">Projects</a> ·
-  <a href="#technical-toolkit">Skills</a> ·
-  <a href="#leadership">Leadership</a> ·
-  <a href="#lets-connect">Contact</a>
-</p>
+## About me
 
-## At a glance
+I build **computer vision pipelines and interactive AI applications** using Python, PyTorch, OpenCV, and YOLO. My projects focus on lightweight model architectures, object detection, and visual defect inspection with retrieval-augmented generation (RAG).
 
-| Education | Academic record | Internship availability |
-| :--- | :--- | :--- |
-| Fourth-year AI Engineering · XMUM | **CGPA 3.77 / 4.00** | **29 March 2027 · 3–6 months** |
+I work across dataset preparation, model development, training, evaluation, and application deployment, with an emphasis on **reproducible experiments, leakage-free evaluation, and clear model comparisons**.
 
-I develop computer vision models and turn experiments into interactive applications. My work focuses on balancing detection quality with model size and computational cost, with reproducible comparisons behind the results.
-
-I also explore visual defect inspection with reference retrieval and retrieval-augmented generation (RAG), connecting image analysis with relevant evidence and explanations.
-
-**Academic recognition:** Dean’s List and XMUM Merit Scholarship for four consecutive years, **2023–2026**.
-
-**Open to:** AI Engineering and Computer Vision internships, plus part-time or project-based collaboration, subject to availability and applicable work-authorisation requirements.
-
-**[Visit my portfolio](https://wilbert-andrew-yonathan.vercel.app/)** for project case studies, research comparisons and interactive previews.
+- **Academic record:** CGPA **3.77 / 4.00** · Dean’s List · XMUM Merit Scholarship for four consecutive years (**2023–2026**).
+- **Internship availability:** **29 March 2027**, for **3–6 months**.
+- **Open to:** AI/ML and Computer Vision internships, plus part-time and project-based collaboration, subject to availability and work authorisation.
 
 ## Featured projects
 
-### 01 / WAYTECHG Marine
+### PaddyLiteX · Final-year thesis
 
-**Underwater object detection · Lightweight architecture research**
+Developed **custom DenseNet-based backbones for YOLOv8n** to study paddy disease detection and model efficiency. My work includes DenseLiteX, SPPF, and C2PSA integration, baseline comparisons, and ablation studies under consistent dataset splits.
 
-An underwater detection project built on **DU-MobileYOLO**, exploring GhostConv and SimSPPF through model comparisons and an interactive demonstration.
+**Python · PyTorch · YOLO · OpenCV**  
+[Repository](https://github.com/WAYTECHG/PaddyLiteX-demo) · [Live demo](https://huggingface.co/spaces/Wizzas/PaddyLiteX)
 
-- **My contribution:** Lightweight model modifications, experimental evaluation and a model-comparison interface.
-- **Engineering focus:** Detection quality, parameter count and clear attribution of upstream work.
-- **Tools:** Python · PyTorch · YOLO · OpenCV
+### WAYTECHG Marine · Underwater object detection
 
-[Explore the repository](https://github.com/WAYTECHG/GhostConv-and-SimSPPF-Integration-for-Marine-Organism-Detection) · [Try the live demo](https://huggingface.co/spaces/Wizzas/Marine-Object-Detection)
+Integrated **GhostConv and SimSPPF into DU-MobileYOLO**, evaluated architecture changes, and built an interactive model-comparison interface. The project examines detection performance and model size, with attribution to the original DU-MobileYOLO work.
 
-<details>
-<summary><strong>What to look for</strong></summary>
+**Python · PyTorch · YOLO · OpenCV**  
+[Repository](https://github.com/WAYTECHG/GhostConv-and-SimSPPF-Integration-for-Marine-Organism-Detection) · [Live demo](https://huggingface.co/spaces/Wizzas/Marine-Object-Detection)
 
-The architecture changes, baseline comparisons and trade-offs between model complexity and detection performance. My contributions build on the upstream DU-MobileYOLO architecture; the original work is credited separately.
+### DefectRAG · Visual defect inspection
 
-</details>
+Building an application that combines **visual anomaly detection, reference retrieval, and retrieval-supported explanations** on MVTec LOCO AD. My work includes DINOv3 feature pipelines, anomaly-head experiments, and web application integration. **In development**, with evaluation ongoing.
 
-### 02 / PaddyLiteX
+**Python · PyTorch · FastAPI · Docker**  
+[Repository](https://github.com/WAYTECHG/DefectRAG) · [Demo](https://huggingface.co/spaces/Wizzas/defectrag-inference)
 
-**Paddy disease detection · Final-year thesis**
+## Technical skills
 
-Research into **YOLOv8n with custom DenseNet-based backbones**, including DenseLiteX, SPPF and C2PSA. The study uses baseline comparisons and ablation experiments to examine detection performance and model complexity.
-
-- **My contribution:** Backbone development, baseline comparisons and ablation experiments.
-- **Engineering focus:** Consistent dataset splits, reproducibility and transparent experimental conditions.
-- **Tools:** Python · PyTorch · YOLO · OpenCV
-
-[Explore the repository](https://github.com/WAYTECHG/PaddyLiteX-demo) · [Try the live demo](https://huggingface.co/spaces/Wizzas/PaddyLiteX)
-
-<details>
-<summary><strong>What to look for</strong></summary>
-
-The backbone design, the comparison with standard YOLOv8n and DenseNet121-based baselines, and how each architecture component contributes to the final model. Accuracy and computational requirements should be read together.
-
-</details>
-
-### 03 / DefectRAG
-
-**Visual defect inspection · Application in development**
-
-An ongoing application combining visual anomaly detection with reference retrieval and retrieval-supported explanations on **MVTec LOCO AD**.
-
-- **My contribution:** Reference-feature pipelines, anomaly-head experiments and web application integration.
-- **Engineering focus:** DINOv3 features, visual reference retrieval and evidence-supported inspection explanations.
-- **Tools:** Python · PyTorch · FastAPI · Docker
-
-[Explore the repository](https://github.com/WAYTECHG/DefectRAG) · [Try the live demo](https://huggingface.co/spaces/Wizzas/defectrag-inference)
-
-<details>
-<summary><strong>What to look for</strong></summary>
-
-How visual features and reference information support the inspection workflow. This project is still in development; performance evaluation and validation remain part of the ongoing work.
-
-</details>
-
-## Technical toolkit
-
-| Area | Tools and project experience |
+| Area | Skills and tools |
 | :--- | :--- |
-| **Programming** | Python |
-| **Deep learning** | PyTorch · CNNs · YOLO · DenseNet · ResNet |
-| **Computer vision** | OpenCV · Classification · Object detection · Visual anomaly detection |
-| **Retrieval and language models** | RAG · Embeddings · Reference retrieval |
-| **Applications** | Streamlit · FastAPI · Docker · Git · GitHub |
+| **Programming & development** | Python · Git · GitHub |
+| **Deep learning & vision** | PyTorch · OpenCV · CNNs · YOLO · DenseNet · ResNet |
+| **AI applications** | Classification · Object detection · Visual anomaly detection · RAG · Embeddings · Reference retrieval |
+| **Deployment** | Streamlit · FastAPI · Docker |
 | **Evaluation** | Dataset preparation · Leakage prevention · Baseline comparisons · Ablation studies |
 
-## Leadership
+## Leadership & collaboration
 
-<details>
-<summary><strong>Coordination, production and community involvement</strong></summary>
-
-- **Head of Photography and Videography, Community Service** — Pre-production, directing, production, asset management and editing.
-- **Head of General Affairs, XMUM AI Club** — Project coordination, logistics and team communication.
-- **AIESEC involvement** — Committee collaboration and fundraising-event support.
-
-</details>
+- **Head of General Affairs, XMUM AI Club** — project coordination, logistics, and team communication.
+- **Head of Photography and Videography, Community Service** — production planning, directing, editing, and asset management.
+- **AIESEC involvement** — committee collaboration and fundraising-event support.
 
 ## Let’s connect
 
-Interested in an internship conversation or an AI development project?
-
-**[View my portfolio](https://wilbert-andrew-yonathan.vercel.app/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/wilbert-andrew-yonathan-85562326a/)** · **[Email me](mailto:30587wilbertandrewyonathan@gmail.com)** · **[Explore my demos](https://huggingface.co/Wizzas)**
-
-<p align="center"><sub>Research interests: lightweight vision architectures · industrial visual inspection · applied machine learning · retrieval-supported AI applications</sub></p>
+Looking for someone to contribute to **computer vision, model optimisation, or RAG applications**? Explore my [portfolio](https://wilbert-andrew-yonathan.vercel.app/), connect on [LinkedIn](https://www.linkedin.com/in/wilbert-andrew-yonathan-85562326a/), or [email me](mailto:30587wilbertandrewyonathan@gmail.com).
