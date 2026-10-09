@@ -25,7 +25,7 @@ I build **computer vision pipelines and interactive AI applications** using Pyth
 I work across dataset preparation, model development, training, evaluation, and application deployment, with an emphasis on **reproducible experiments, leakage-free evaluation, and clear model comparisons**.
 
 - **Academic record:** CGPA **3.77 / 4.00** · Dean’s List · XMUM Merit Scholarship for four consecutive years (**2023–2026**).
-- **Internship availability:** **29 March 2027**, for **3–6 months**.
+- **Internship availability:** **29 March 2027**, for **3–5 months**.
 - **Open to:** AI/ML and Computer Vision internships, plus part-time and project-based collaboration, subject to availability and work authorisation.
 
 ## Featured projects
