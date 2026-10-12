@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=21&amp;duration=2800&amp;pause=1100&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=42&amp;lines=Computer+Vision+%C2%B7+Deep+Learning;Lightweight+Models+%C2%B7+Efficient+AI;Visual+Inspection+%C2%B7+RAG+Applications" alt="Computer Vision · Deep Learning · Lightweight Models · Efficient AI · Visual Inspection · RAG Applications">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=21&amp;duration=2800&amp;pause=1100&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=42&amp;lines=Computer+Vision+%C2%B7+Deep+Learning;Lightweight+Models+%C2%B7+Efficient+AI;Reinforcement+Learning+%C2%B7+Autonomous+Agents" alt="Computer Vision · Deep Learning · Lightweight Models · Efficient AI · Reinforcement Learning · Autonomous Agents">
 </p>
 
 <p align="center">
-  <strong>Fourth-year AI Engineering student · Xiamen University Malaysia</strong><br>
+  <strong>Final-year AI Engineering student · Xiamen University Malaysia</strong><br>
   Building practical AI applications through research and engineering.
 </p>
 
@@ -20,36 +20,51 @@
 
 ## About me
 
-I build **computer vision pipelines and interactive AI applications** using Python, PyTorch, OpenCV, and YOLO. My projects focus on lightweight model architectures, object detection, and visual defect inspection with retrieval-augmented generation (RAG).
+I build **computer vision pipelines and interactive AI applications** using Python, PyTorch, OpenCV, and YOLO. My projects focus on efficient object detection, facial expression recognition, and autonomous reinforcement learning agents.
 
 I work across dataset preparation, model development, training, evaluation, and application deployment, with an emphasis on **reproducible experiments, leakage-free evaluation, and clear model comparisons**.
 
-- **Academic record:** CGPA **3.77 / 4.00** · Dean’s List · XMUM Merit Scholarship for four consecutive years (**2023–2026**).
+- **Academic record:** CGPA **3.77 / 4.00** · Dean’s List · XMUM Merit Scholarship for the four-year undergraduate programme (**2023–2027**).
 - **Internship availability:** **29 March 2027**, for **3–5 months**.
 - **Open to:** AI/ML and Computer Vision internships, plus part-time and project-based collaboration, subject to availability and work authorisation.
 
 ## Featured projects
 
-### PaddyLiteX · Final-year thesis
+### PaddyLiteX · Paddy disease detection · Final-year thesis
 
-Developed **custom DenseNet-based backbones for YOLOv8n** to study paddy disease detection and model efficiency. My work includes DenseLiteX, SPPF, and C2PSA integration, baseline comparisons, and ablation studies under consistent dataset splits.
+Built a YOLOv8n baseline with a DenseNet-121 backbone, then developed a lighter DenseLiteX backbone with SPPF and C2PSA for nine-class paddy disease detection. The proposed model achieved **81.67% mAP@0.5**, compared with 80.69% for the DenseNet-121-based baseline, using 68.01% fewer parameters and 72.59% lower GFLOPs.
 
-**Python · PyTorch · YOLO · OpenCV**  
-[Repository](https://github.com/WAYTECHG/PaddyLiteX-demo) · [Live demo](https://huggingface.co/spaces/Wizzas/PaddyLiteX)
+Compared with original YOLOv8n, it achieved 0.88 percentage points higher mAP@0.5 with 4.24% fewer parameters. I prepared annotations, conducted baseline and ablation experiments, and built an interactive demo comparing all three models under consistent dataset splits.
 
-### WAYTECHG Marine · Underwater object detection
+Python · PyTorch · Ultralytics YOLO · OpenCV  
+[Repository](https://github.com/WAYTECHG/PaddyLiteX) · [Live demo](https://paddylitex.onrender.com/)
 
-Integrated **GhostConv and SimSPPF into DU-MobileYOLO**, evaluated architecture changes, and built an interactive model-comparison interface. The project examines detection performance and model size, with attribution to the original DU-MobileYOLO work.
+### MarineLite · Marine organism detection
 
-**Python · PyTorch · YOLO · OpenCV**  
-[Repository](https://github.com/WAYTECHG/GhostConv-and-SimSPPF-Integration-for-Marine-Organism-Detection) · [Live demo](https://huggingface.co/spaces/Wizzas/Marine-Object-Detection)
+Adapted DU-MobileYOLO with GhostConv and SimSPPF on URPC2020, increasing mAP@0.5 from 74.23% to **75.36%** while reducing parameters from 4.70M to 4.37M, a 7.02% reduction.
 
-### DefectRAG · Visual defect inspection
+I evaluated accuracy–complexity trade-offs through baseline and ablation experiments and deployed an interactive demo with bounding-box visualisation and model comparisons. The repository credits the original DU-MobileYOLO work.
 
-Building an application that combines **visual anomaly detection, reference retrieval, and retrieval-supported explanations** on MVTec LOCO AD. My work includes DINOv3 feature pipelines, anomaly-head experiments, and web application integration. **In development**, with evaluation ongoing.
+Python · PyTorch · YOLO · OpenCV  
+[Repository](https://github.com/WAYTECHG/GhostConv-and-SimSPPF-Integration-for-Marine-Organism-Detection) · [Live demo](https://marine-object-detection.onrender.com/)
 
-**Python · PyTorch · FastAPI · Docker**  
-[Repository](https://github.com/WAYTECHG/DefectRAG) · [Demo](https://huggingface.co/spaces/Wizzas/defectrag-inference)
+### dPickleball · Autonomous reinforcement learning agent
+
+Trained a PPO agent in Unity ML-Agents using a two-stage pipeline combining a six-level wall-training curriculum with league self-play. I experimented with reward and penalty configurations to develop movement, paddle rotation and ball-return behaviour.
+
+I contributed candidate policies and participated in collaborative tournament evaluation and final agent selection, helping the team achieve **2nd place in the competition**. The project builds on the [original dPickleBall environment](https://github.com/dPickleball/dPickleBallEnv).
+
+Python · PyTorch · Unity ML-Agents · PPO  
+[Repository](https://github.com/WAYTECHG/dpickleball-reinforcement-learning-agent) · [Watch the competition on YouTube](https://www.youtube.com/live/CitFn9FK12s)
+
+### FER2013 · Facial expression recognition
+
+Trained and compared a custom CNN with VGG16, MobileNetV2 and ResNet50 for classification across seven facial expression categories. The custom CNN achieved **66.00% reported test accuracy**, outperforming the three transfer learning models in the project evaluation.
+
+Built a browser demo for image uploads and webcam inference with face detection, confidence scores and model switching. Evaluation includes confusion matrices, class-wise metrics, ROC curves and saved Grad-CAM visualisations.
+
+Python · TensorFlow/Keras · OpenCV · scikit-learn · ONNX Runtime Web  
+[Repository](https://github.com/WAYTECHG/FER2013-Project) · [Live demo](https://fer2013-project.onrender.com/)
 
 ## Tech stack
 
@@ -62,10 +77,18 @@ Building an application that combines **visual anomaly detection, reference retr
 **Machine learning & computer vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-042AFF?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Reinforcement learning**
+
+![Unity ML-Agents](https://img.shields.io/badge/Unity_ML--Agents-222222?style=flat&logo=unity&logoColor=white)
+![PPO](https://img.shields.io/badge/PPO-2563EB?style=flat)
+
+Curriculum learning · Reward shaping · League self-play · Policy evaluation
 
 **Data & deployment**
 
@@ -75,7 +98,7 @@ Building an application that combines **visual anomaly detection, reference retr
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Applied skills:** CNNs · DenseNet · ResNet · Object detection · Visual anomaly detection · RAG · Embeddings · Reference retrieval
+**Applied skills:** CNNs · DenseNet · ResNet · Image classification · Object detection · Reinforcement learning · RAG · Embeddings · Reference retrieval
 
 **Evaluation:** Dataset preparation · Leakage prevention · Baseline comparisons · Ablation studies
 
@@ -107,4 +130,4 @@ Building an application that combines **visual anomaly detection, reference retr
 
 ## Let’s connect
 
-Looking for someone to contribute to **computer vision, model optimisation, or RAG applications**? Explore my [portfolio](https://wilbert-andrew-yonathan.vercel.app/), connect on [LinkedIn](https://www.linkedin.com/in/wilbert-andrew-yonathan-85562326a/), or [email me](mailto:30587wilbertandrewyonathan@gmail.com).
+Looking for someone to contribute to **computer vision, efficient deep learning, or reinforcement learning**? Explore my [portfolio](https://wilbert-andrew-yonathan.vercel.app/), connect on [LinkedIn](https://www.linkedin.com/in/wilbert-andrew-yonathan-85562326a/), or [email me](mailto:30587wilbertandrewyonathan@gmail.com).
