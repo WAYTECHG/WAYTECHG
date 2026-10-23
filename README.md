@@ -134,6 +134,7 @@ Python · TensorFlow/Keras · OpenCV · scikit-learn · ONNX Runtime Web<br>
 **Application services**
 
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Formspree](https://img.shields.io/badge/Formspree-E5122E?style=flat-square&logo=formspree&logoColor=white)
 
 **Reinforcement learning**
 
