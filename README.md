@@ -75,14 +75,72 @@ Python · TensorFlow/Keras · OpenCV · scikit-learn · ONNX Runtime Web<br>
 
 ## Technical skills
 
-- **Programming:** Python, C, C++, SQL
-- **Machine learning & data:** PyTorch, TensorFlow/Keras, scikit-learn, NumPy, pandas, OpenCV, LightGBM
-- **Generative AI & NLP:** Natural Language Processing (NLP), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Hugging Face Transformers
-- **Web & APIs:** FastAPI, Flask, React (React.js), Gradio, Streamlit, REST APIs
-- **Databases:** SQLite, Supabase (PostgreSQL)
-- **Development & deployment:** Git, Docker, Render, Vercel, Hugging Face Spaces / ZeroGPU
-- **Application services:** Resend
-- **Reinforcement learning:** Unity ML-Agents, PPO, curriculum learning, reward shaping, league self-play
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
+
+**Machine learning & data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2563EB?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-042AFF?style=flat-square)
+![DINOv2](https://img.shields.io/badge/DINOv2-4F46E5?style=flat-square)
+
+**Generative AI & NLP**
+
+![NLP](https://img.shields.io/badge/NLP-2563EB?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-326CE5?style=flat-square)
+![Hugging Face Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Qwen](https://img.shields.io/badge/Qwen-7C3AED?style=flat-square)
+![BGE Embeddings](https://img.shields.io/badge/BGE_Embeddings-64748B?style=flat-square)
+
+**Web & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square)
+
+**Databases**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+
+**Development & deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ZeroGPU](https://img.shields.io/badge/ZeroGPU-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Application services**
+
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+
+**Reinforcement learning**
+
+![Unity ML-Agents](https://img.shields.io/badge/Unity_ML--Agents-222222?style=flat-square&logo=unity&logoColor=white)
+![PPO](https://img.shields.io/badge/PPO-2563EB?style=flat-square)
+
+Curriculum learning · Reward shaping · League self-play · Policy evaluation
 
 **Evaluation:** Dataset preparation, baseline comparisons, ablation studies, image AUROC, precision/recall and mAP.
 
