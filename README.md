@@ -75,29 +75,29 @@ Python · TensorFlow/Keras · OpenCV · scikit-learn · ONNX Runtime Web<br>
 
 ## Technical skills
 
-**Programming**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 
-**Machine learning & data**
+**Machine Learning & Computer Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-2563EB?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO-042AFF?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-042AFF?style=flat-square)
 ![DINOv2](https://img.shields.io/badge/DINOv2-4F46E5?style=flat-square)
+![Object Detection](https://img.shields.io/badge/Object_Detection-2563EB?style=flat-square)
+![Image Classification](https://img.shields.io/badge/Image_Classification-0F766E?style=flat-square)
+![Visual Anomaly Detection](https://img.shields.io/badge/Visual_Anomaly_Detection-7C3AED?style=flat-square)
 
 **Generative AI & NLP**
 
-![NLP](https://img.shields.io/badge/NLP-2563EB?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -115,13 +115,16 @@ Python · TensorFlow/Keras · OpenCV · scikit-learn · ONNX Runtime Web<br>
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square)
 
-**Databases**
+**Data & Databases**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
 
-**Development & deployment**
+**Deployment & Automation**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -131,7 +134,7 @@ Python · TensorFlow/Keras · OpenCV · scikit-learn · ONNX Runtime Web<br>
 ![Hugging Face Spaces](https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![ZeroGPU](https://img.shields.io/badge/ZeroGPU-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Application services**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
 ![Formspree](https://img.shields.io/badge/Formspree-E5122E?style=flat-square&logo=formspree&logoColor=white)
