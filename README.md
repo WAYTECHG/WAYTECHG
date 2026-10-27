@@ -80,6 +80,7 @@ Python · TensorFlow/Keras · OpenCV · scikit-learn · ONNX Runtime Web<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 
 **Machine Learning & Computer Vision**
@@ -105,6 +106,15 @@ Python · TensorFlow/Keras · OpenCV · scikit-learn · ONNX Runtime Web<br>
 ![Hugging Face Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Qwen](https://img.shields.io/badge/Qwen-7C3AED?style=flat-square)
 ![BGE Embeddings](https://img.shields.io/badge/BGE_Embeddings-64748B?style=flat-square)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square)
+
+**Data & Databases**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
 
 **Web & APIs**
 
@@ -115,27 +125,28 @@ Python · TensorFlow/Keras · OpenCV · scikit-learn · ONNX Runtime Web<br>
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square)
 
-**Data & Databases**
+**Cloud & Deployment**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
-
-**Deployment & Automation**
-
+![Amazon Web Services (AWS)](https://img.shields.io/badge/Amazon_Web_Services_%28AWS%29-232F3E?style=flat-square)
+![Amazon Lightsail](https://img.shields.io/badge/Amazon_Lightsail-232F3E?style=flat-square)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-232F3E?style=flat-square)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-232F3E?style=flat-square)
+![AWS Budgets](https://img.shields.io/badge/AWS_Budgets-232F3E?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux (Ubuntu)](https://img.shields.io/badge/Linux_%28Ubuntu%29-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Hugging Face Spaces](https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![ZeroGPU](https://img.shields.io/badge/ZeroGPU-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Automation & Integration**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
+![Webhooks](https://img.shields.io/badge/Webhooks-0F766E?style=flat-square)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
 ![Formspree](https://img.shields.io/badge/Formspree-E5122E?style=flat-square&logo=formspree&logoColor=white)
 
