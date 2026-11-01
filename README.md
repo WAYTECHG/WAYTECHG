@@ -35,7 +35,6 @@ I build **computer vision, efficient deep learning and RAG-powered AI applicatio
 | **DefectRAG** | Visual anomaly inspection across 12 VisA categories (frozen DINOv2 + normal-reference scoring + heatmaps) with cited RAG explanations and a review dashboard | **95.13% mean image AUROC** (retrospective development evaluation, not external validation) | [Code](https://github.com/WAYTECHG/DefectRAG) · [Demo](https://huggingface.co/spaces/Wizzas/DefectRAG) |
 | **MarineLite** | Marine organism detection: GhostConv + SimSPPF integrated into DU-MobileYOLO on URPC2020 | mAP@0.5 **74.23% → 75.36%**, params **4.70M → 4.37M** | [Code](https://github.com/WAYTECHG/GhostConv-and-SimSPPF-Integration-for-Marine-Organism-Detection) · [Demo](https://marine-object-detection.onrender.com/) |
 | **dPickleball** | PPO agents in Unity ML-Agents: 6-level wall-training curriculum, then league self-play | Team of 6 placed **2nd of 13** in the class competition | [Code](https://github.com/WAYTECHG/dpickleball-reinforcement-learning-agent) · [Video](https://www.youtube.com/live/CitFn9FK12s) |
-| **FER2013** | Facial expression recognition (7 classes) with browser demo: upload or webcam, face detection, confidence scores | Custom CNN: **66.00%** test accuracy | [Code](https://github.com/WAYTECHG/FER2013-Project) · [Demo](https://fer2013-project.onrender.com/) |
 
 <details>
 <summary><strong>Project details, stacks and my contribution</strong></summary>
@@ -53,9 +52,6 @@ Baseline and ablation experiments on the accuracy–complexity trade-off; demo w
 
 **dPickleball** · Python, PyTorch, Unity ML-Agents, PPO
 Experimented with reward and penalty configurations for movement, paddle rotation and ball return. My contribution: candidate policies and round-robin evaluation. Built on the [original dPickleBall environment](https://github.com/dPickleball/dPickleBallEnv).
-
-**FER2013** · Python, TensorFlow/Keras, OpenCV, scikit-learn, ONNX Runtime Web
-My contribution: custom CNN development and evaluation, VGG16 fine-tuning and evaluation, and the main application code (team project).
 
 </details>
 
@@ -81,6 +77,9 @@ My contribution: custom CNN development and evaluation, VGG16 fine-tuning and ev
 - **Head of General Affairs**, XMUM AI Club (Apr – Oct 2025): coordinated logistics and external partners for a national-level AI event.
 - **Student Registration & Operations Assistant**, Xiamen University Malaysia (Apr 2025): supported registration and event logistics for 800+ students.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WAYTECHG/WAYTECHG/output/streak.svg" alt="WAYTECHG's total contributions, current streak, and longest streak">
+</p>
 <!-- Generated from my contributions by .github/workflows/snake.yml. -->
 <p align="center">
   <picture>
