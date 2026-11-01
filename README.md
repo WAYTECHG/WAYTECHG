@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>AI Engineering student · Computer Vision · Efficient Deep Learning · RAG</strong><br>
-  Xiamen University Malaysia · Seeking an AI / Computer Vision internship from <strong>29 March 2027</strong>
+  Xiamen University Malaysia · Seeking an AI / ML internship from <strong>29 March 2027</strong>
 </p>
 
 <p align="center">
@@ -24,17 +24,19 @@ I build **computer vision, efficient deep learning and RAG-powered AI applicatio
 |---|---|
 | **Education** | B.Eng. Artificial Intelligence, Xiamen University Malaysia (Sep 2023 – Sep 2027, expected) |
 | **Academic record** | CGPA **3.77 / 4.00** · Dean's List, 3 consecutive semesters · XMUM Merit Scholarship (2023–2027) |
-| **Looking for** | AI/ML and Computer Vision internship · **3–5 months from 29 March 2027** · also open to project-based collaboration (subject to work authorisation) |
+| **Looking for** | AI/ML internship (computer vision, deep learning, generative AI) · **3–5 months from 29 March 2027** · also open to project-based collaboration |
 | **Languages** | English, Mandarin, Indonesian, Malay, Hokkien |
 
 ## Featured projects
 
+*Render-hosted demos can take about a minute to wake on first load.*
+
 | Project | What it does | Key result | Links |
 |---|---|---|---|
-| **PaddyLiteX**<br>*Final-year thesis* | Lightweight YOLOv8n paddy disease detector (DenseLiteX backbone, SPPF, C2PSA), 9 classes | **81.67% mAP@0.5** on 803 test images; **−68.01% params, −72.59% GFLOPs** vs. the initial YOLOv8n-DenseNet121 proposal | [Code](https://github.com/WAYTECHG/PaddyLiteX) · [Demo](https://paddylitex.onrender.com/) |
+| **PaddyLiteX**<br>*Final-year thesis* | Lightweight YOLOv8n paddy disease detector (DenseLiteX backbone, SPPF, C2PSA), 9 classes | **81.67% mAP@0.5** on 803 test images; **−68.01% params, −72.59% GFLOPs** vs. the initial YOLOv8n-DenseNet121 proposal | [Code](https://github.com/WAYTECHG/paddylitex-disease-detection) · [Demo](https://paddylitex.onrender.com/) · [HF Space](https://huggingface.co/spaces/Wizzas/PaddyLiteX) |
 | **DefectRAG** | Visual anomaly inspection across 12 VisA categories (frozen DINOv2 + normal-reference scoring + heatmaps) with cited RAG explanations and a review dashboard | **95.13% mean image AUROC** (retrospective development evaluation, not external validation) | [Code](https://github.com/WAYTECHG/DefectRAG) · [Demo](https://huggingface.co/spaces/Wizzas/DefectRAG) |
-| **MarineLite** | Marine organism detection: GhostConv + SimSPPF integrated into DU-MobileYOLO on URPC2020 | mAP@0.5 **74.23% → 75.36%**, params **4.70M → 4.37M** | [Code](https://github.com/WAYTECHG/GhostConv-and-SimSPPF-Integration-for-Marine-Organism-Detection) · [Demo](https://marine-object-detection.onrender.com/) |
-| **dPickleball** | PPO agents in Unity ML-Agents: 6-level wall-training curriculum, then league self-play | Team of 6 placed **2nd of 13** in the class competition | [Code](https://github.com/WAYTECHG/dpickleball-reinforcement-learning-agent) · [Video](https://www.youtube.com/live/CitFn9FK12s) |
+| **MarineLite** | Marine organism detection: GhostConv + SimSPPF integrated into DU-MobileYOLO on URPC2020 | mAP@0.5 **74.23% → 75.36%**, params **4.70M → 4.37M** | [Code](https://github.com/WAYTECHG/marinelite-organism-detection) · [Demo](https://marine-object-detection.onrender.com/) |
+| **dPickleball** | PPO agents in Unity ML-Agents: 6-level wall-training curriculum, then league self-play | Team of 6 placed **2nd of 13** in the class competition | [Code](https://github.com/WAYTECHG/dpickleball-rl-agent) · [Video](https://www.youtube.com/live/CitFn9FK12s) |
 
 <details>
 <summary><strong>Project details, stacks and my contribution</strong></summary>
@@ -44,8 +46,8 @@ I build **computer vision, efficient deep learning and RAG-powered AI applicatio
 **PaddyLiteX** · Python, PyTorch, Ultralytics YOLO, OpenCV
 Ran ablation studies and deployed an interactive three-model comparison demo.
 
-**DefectRAG** · Python, PyTorch, DINOv2, LangChain, LangGraph, Qwen, BGE embeddings, React.js, FastAPI, Supabase (PostgreSQL), SQLite, Hugging Face ZeroGPU
-Cited RAG explanations; dashboard for inspection history, reports and review workflows; Supabase for cloud collaboration, SQLite locally, ZeroGPU for queued cloud inference.
+**DefectRAG** · Python, PyTorch, DINOv2, LangChain, LangGraph, Qwen, BGE embeddings, React.js, FastAPI, Supabase (PostgreSQL), SQLite, n8n, AWS Lightsail, Hugging Face ZeroGPU
+Cited RAG explanations; dashboard for inspection history, reports and review workflows; Supabase (Auth, row-level security, TOTP MFA) for cloud collaboration, SQLite locally, ZeroGPU for queued cloud inference; corrective-action emails via n8n self-hosted on AWS Lightsail.
 
 **MarineLite** · Python, PyTorch, YOLO, OpenCV
 Baseline and ablation experiments on the accuracy–complexity trade-off; demo with bounding-box visualisation and model comparison. The repository credits the original DU-MobileYOLO work.
