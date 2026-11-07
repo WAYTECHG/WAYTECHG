@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/banner-dark.svg#gh-dark-mode-only" width="900" alt="Wilbert Andrew Yonathan. Final-year AI Engineering student at Xiamen University Malaysia. Computer vision, generative AI and efficient deep learning. Open to internships from 29 March 2027.">
-  <img src="assets/banner-light.svg#gh-light-mode-only" width="900" alt="Wilbert Andrew Yonathan. Final-year AI Engineering student at Xiamen University Malaysia. Computer vision, generative AI and efficient deep learning. Open to internships from 29 March 2027.">
+  <img src="assets/banner.svg" width="900" alt="Wilbert Andrew Yonathan. Final-year AI Engineering student at Xiamen University Malaysia. Computer vision, generative AI and efficient deep learning. Open to internships from 29 March 2027.">
 </p>
 
 <p align="center">
