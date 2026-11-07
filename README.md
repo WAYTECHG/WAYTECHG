@@ -20,7 +20,7 @@ I build **computer vision, generative AI and efficient deep learning application
 | **Education** | B.Eng. Artificial Intelligence, Xiamen University Malaysia (Sep 2023 – Sep 2027, expected) |
 | **Academic record** | CGPA **3.77 / 4.00** · Dean's List, 3 consecutive semesters · XMUM Merit Scholarship (2023–2027) |
 | **Looking for** | AI/ML internship (computer vision, deep learning, generative AI) · **3–5 months from 29 March 2027** · also open to project-based collaboration |
-| **Languages** | English (professional working), Mandarin and Malay (conversational), Indonesian and Hokkien (native) |
+| **Languages** | English (Professional Working), Mandarin (Conversational), Malay (Conversational), Indonesian (Native), Hokkien (Native) |
 
 ## Featured projects
 
@@ -48,7 +48,7 @@ Detector: DINOv2 with its last four blocks fine-tuned on synthetic defects and a
 Baseline and ablation experiments on the accuracy–complexity trade-off; demo with bounding-box visualisation and model comparison. The repository credits the original DU-MobileYOLO work.
 
 **dPickleball** · Python, PyTorch, Unity ML-Agents, PPO
-Experimented with reward and penalty configurations for movement, paddle rotation and ball return. My contribution: an independently trained PPO agent (reward and penalty experiments) and a candidate policy for the team's round-robin evaluation. Built on the [original dPickleBall environment](https://github.com/dPickleball/dPickleBallEnv).
+Experimented with reward and penalty configurations for movement, paddle rotation and ball return. My contribution: an independent PPO agent (reward and penalty settings, about 90 minutes per run, 4 checkpoints delivered to the team); my candidate reached the top 4 of the team's round-robin. Built on the [original dPickleBall environment](https://github.com/dPickleball/dPickleBallEnv).
 
 </details>
 
@@ -70,8 +70,8 @@ Experimented with reward and penalty configurations for movement, paddle rotatio
 
 ## Experience & leadership
 
-- **Head of Photography & Videography**, Love in Action (Feb – Mar 2026): led the media team for a charity project serving 150+ participants; scripted, directed and edited the final recap video.
-- **Head of General Affairs**, XMUM AI Club (Apr – Oct 2025): handled budget, procurement and corporate-partner merchandise for a national AI and digital sports tournament.
+- **Head of Photography & Videography**, Love in Action (Feb – Mar 2026): scheduled 8 departments' filming; managed and co-edited 200+ clips for a 150+ participant final video.
+- **Head of General Affairs**, XMUM AI Club (Apr – Oct 2025): managed RM1,000 WPS sponsorship on 5+ event items; booked venues for a national AI tournament.
 - **Student Registration & Operations Assistant**, Xiamen University Malaysia (Apr 2025): assisted registration logistics and directed students within a team serving 800+ foundation students.
 
 <p align="center">
