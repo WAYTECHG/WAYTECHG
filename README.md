@@ -18,7 +18,6 @@ I build **computer vision, generative AI and efficient deep learning application
 | | |
 |---|---|
 | **Education** | B.Eng. Artificial Intelligence, Xiamen University Malaysia (Sep 2023 – Sep 2027, expected) |
-| **Academic record** | CGPA **3.77 / 4.00** · Dean's List, 3 consecutive semesters · XMUM Merit Scholarship (2023–2027) |
 | **Looking for** | AI/ML internship (computer vision, deep learning, generative AI) · **3–5 months from 29 March 2027** · also open to project-based collaboration |
 | **Spoken languages** | English (Professional Working), Mandarin (Conversational), Malay (Conversational), Indonesian (Native), Hokkien (Native) |
 
