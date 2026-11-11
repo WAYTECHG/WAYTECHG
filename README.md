@@ -11,49 +11,24 @@
 
 ---
 
-## Hi, I'm Wilbert
+## About
 
-I'm a final-year AI Engineering student at Xiamen University Malaysia. I build **computer vision, generative AI and efficient deep learning** systems end to end: train and evaluate the model, then ship it behind an API with a working UI, tests and CI.
+Final-year AI Engineering student at Xiamen University Malaysia. I build **computer vision, generative AI and efficient deep learning** systems end to end: model, API, UI, tests and CI.
 
-**What I'm exploring**
+**Focus:** efficient object detection · visual anomaly detection · RAG and LLM fine-tuning · reinforcement learning
 
-- **Efficient detection:** lightweight YOLO variants that keep accuracy while cutting parameters and compute.
-- **Visual anomaly detection:** finding defects from normal images only, with frozen or lightly fine-tuned foundation-model features.
-- **Grounded LLM applications:** retrieval-augmented generation with citations and small fine-tuned models (QLoRA on an 8 GB GPU).
-- **Reinforcement learning:** PPO, curriculum learning and self-play in Unity ML-Agents.
-
-I care about reproducible experiments and reporting model limitations honestly.
+**Open to:** AI/ML internships (3–5 months from 29 March 2027) and project collaboration
 
 ## Projects
 
-### [DefectRAG](https://github.com/WAYTECHG/DefectRAG): visual anomaly inspection with a cited assistant
-Detects unusual products across 12 VisA categories without labelled defect images, shows heatmaps, and explains findings with a RAG assistant that quotes its sources.
+| Project | What it is | Result | Links |
+|---|---|---|---|
+| **DefectRAG** | Defect detection from normal images only, plus a RAG assistant that cites its sources | **0.971 AUROC** on VisA (from 0.950) · **0.992** on MVTec AD · answers with correct sources **42% → 89%** · **500+ tests** | [Code](https://github.com/WAYTECHG/DefectRAG) · [Demo](https://huggingface.co/spaces/Wizzas/DefectRAG) |
+| **PaddyLiteX** *(thesis)* | Lightweight YOLOv8n paddy disease detector, 9 classes | **81.67% mAP@0.5** · **−68% parameters** · **−73% GFLOPs** | [Code](https://github.com/WAYTECHG/paddylitex-disease-detection) · [Demo](https://paddylitex.onrender.com/) |
+| **MarineLite** | Underwater organism detection (DU-MobileYOLO + GhostConv + SimSPPF) | mAP@0.5 **74.23% → 75.36%** · parameters **4.70M → 4.37M** | [Code](https://github.com/WAYTECHG/marinelite-organism-detection) · [Demo](https://marine-object-detection.onrender.com/) |
+| **dPickleball** | PPO agent in Unity ML-Agents (team project) | Team **2nd of 13** · my agent in the team's top 4 | [Code](https://github.com/WAYTECHG/dpickleball-rl-agent) · [Video](https://www.youtube.com/live/CitFn9FK12s) |
 
-- Detector: DINOv2 with its last 4 of 12 blocks fine-tuned on synthetic defects plus a coreset memory of normal patches. **0.971 mean image AUROC on VisA** (0.950 before fine-tuning and coreset memory) and **0.992 on MVTec AD**. VisA figures are descriptive, not independent validation.
-- Assistant: BGE retrieval, LangChain and LangGraph, with Qwen2.5-3B fine-tuned using QLoRA. Correct quoted sources rose **from 42% to 89%** on 100 held-out questions (80 answerable, 20 not).
-- Product: React and FastAPI dashboard, Supabase auth with TOTP MFA and row-level security, n8n corrective-action emails on AWS Lightsail, **500+ automated tests** in GitHub Actions CI with an approval-gated release.
-
-`Python` `PyTorch` `DINOv2` `QLoRA` `LangChain` `LangGraph` `React` `FastAPI` `Supabase` `n8n` `Docker` `AWS` `GitHub Actions` · [Code](https://github.com/WAYTECHG/DefectRAG) · [Live demo](https://huggingface.co/spaces/Wizzas/DefectRAG)
-
-### [PaddyLiteX](https://github.com/WAYTECHG/paddylitex-disease-detection): lightweight paddy disease detector (final-year thesis)
-A YOLOv8n variant with a DenseLiteX backbone, SPPF and C2PSA for 9 paddy disease classes.
-
-- **81.67% mAP@0.5** on 803 test images, with **68.01% fewer parameters and 72.59% fewer GFLOPs** than the initial YOLOv8n-DenseNet121 proposal.
-- Ablation studies and an interactive three-model comparison demo.
-
-`Python` `PyTorch` `Ultralytics YOLO` `OpenCV` · [Code](https://github.com/WAYTECHG/paddylitex-disease-detection) · [Demo](https://paddylitex.onrender.com/) · [Hugging Face Space](https://huggingface.co/spaces/Wizzas/PaddyLiteX)
-
-### [MarineLite](https://github.com/WAYTECHG/marinelite-organism-detection): underwater organism detection
-GhostConv and SimSPPF integrated into DU-MobileYOLO and evaluated on URPC2020: mAP@0.5 **74.23% → 75.36%** while parameters fall **4.70M → 4.37M**. Credits the original DU-MobileYOLO work.
-
-`Python` `PyTorch` `YOLO` `OpenCV` · [Code](https://github.com/WAYTECHG/marinelite-organism-detection) · [Demo](https://marine-object-detection.onrender.com/)
-
-### [dPickleball](https://github.com/WAYTECHG/dpickleball-rl-agent): reinforcement learning in Unity ML-Agents
-Team project on the [dPickleBall environment](https://github.com/dPickleball/dPickleBallEnv): a 6-level wall-training curriculum followed by league self-play. My part was an independent PPO agent with tested reward and penalty settings (about 90 minutes per run, 4 checkpoints delivered); it reached the top 4 of the team's round-robin, and the team placed 2nd of 13.
-
-`Python` `PyTorch` `Unity ML-Agents` `PPO` · [Code](https://github.com/WAYTECHG/dpickleball-rl-agent) · [Video](https://www.youtube.com/live/CitFn9FK12s)
-
-*Render-hosted demos can take about a minute to wake on first load.*
+<sub>Render demos can take about a minute to wake. DefectRAG VisA figures are descriptive, not independent validation.</sub>
 
 ## Tech stack
 
@@ -70,15 +45,7 @@ Team project on the [dPickleBall environment](https://github.com/dPickleball/dPi
 <p align="center">
   <img src="https://raw.githubusercontent.com/WAYTECHG/WAYTECHG/output/streak.svg" alt="WAYTECHG's total contributions, current streak, and longest streak">
 </p>
-<!-- Generated from my contributions by .github/workflows/snake.yml. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WAYTECHG/WAYTECHG/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WAYTECHG/WAYTECHG/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/WAYTECHG/WAYTECHG/output/github-snake.svg" alt="Animated snake following my GitHub contribution graph">
-  </picture>
-</p>
 
-## Get in touch
+## Contact
 
-Open to internships and project collaboration in computer vision, generative AI and efficient deep learning: [wilbertyonathan@gmail.com](mailto:wilbertyonathan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/wilbert-andrew-yonathan/) · [Portfolio](https://wilbert-andrew-yonathan.vercel.app/)
+[wilbertyonathan@gmail.com](mailto:wilbertyonathan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/wilbert-andrew-yonathan/) · [Portfolio](https://wilbert-andrew-yonathan.vercel.app/)
